@@ -51,6 +51,12 @@ local.properties
 apk_check/
 apk_contents/
 
+# Temporary zip files
+*.zip
+
+# Temporary markdown files
+deepseek.md
+
 # Large binary files (optional - uncomment if you want to exclude)
 # app/src/main/assets/*.bin
 # app/src/main/jniLibs/
