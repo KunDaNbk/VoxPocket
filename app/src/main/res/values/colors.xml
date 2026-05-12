@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- VoxPocket Theme Colors -->
+    <color name="voxpocket_primary">#FF8B5CF6</color>
+    <color name="voxpocket_primary_light">#FFA78BFA</color>
+    <color name="voxpocket_dark">#FF0F0F1A</color>
+    <color name="voxpocket_surface_dark">#FF1A1A2E</color>
+    <color name="voxpocket_surface_variant">#FF252540</color>
+    <color name="voxpocket_user_bubble">#FF8B5CF6</color>
+    <color name="voxpocket_ai_bubble">#FF252540</color>
+    <color name="voxpocket_text_primary">#FFF8FAFC</color>
+    <color name="voxpocket_text_secondary">#FF9CA3AF</color>
+</resources>
